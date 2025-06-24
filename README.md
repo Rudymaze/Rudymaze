@@ -1,6 +1,6 @@
 # Hi there, I'm [NJOCK RUDIGER]! 👋
 
-![Banner Image](![Image](https://github.com/user-attachments/assets/9a69cd85-d825-4a47-a4b4-8389baa27ab2))
+![Image](https://github.com/user-attachments/assets/dc9ebd1a-5e6b-4b0f-a5c6-50b46e93ade5)
 
 ## About Me 🚀
 
@@ -38,7 +38,6 @@ Hi there! 👋 I'm a passionate frontend developer with a relentless drive to le
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/rudiger-njock/) )
-- **[Twitter]**([your_twitter_profile_link](https://x.com/rudiger479))
-
+![your_linkedin_profile_link](https://www.linkedin.com/in/rudiger-njock/) 
+![your_twitter_profile_link](https://x.com/rudiger479)
 
