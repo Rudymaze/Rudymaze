@@ -1,4 +1,4 @@
-# Hi there, I'm [NJOCK RUDIGER]! 👋
+# Hi there, I'm NJOCK RUDIGER👋
 
 ![Image](https://github.com/user-attachments/assets/dc9ebd1a-5e6b-4b0f-a5c6-50b46e93ade5)
 
@@ -6,11 +6,13 @@
 
 Hi there! 👋 I'm a passionate frontend developer with a relentless drive to learn, grow, and create exceptional user experiences. I thrive on turning ideas into interactive, responsive, and visually appealing web applications. Constantly honing my skills in modern frameworks and best practices, I aim to push boundaries and deliver high-quality solutions. Let’s connect, collaborate, and build amazing things together. 🚀
 
+Reach me at: njockrudiger4@gmail.com
+
 - 🌱 Currently learning: Advanced Frontend Development Techniques
 - 🔭 Working on:  I'm working on a project, a web video call app, where I will hone my skills and improve. 
 - 🌍 Languages: HTML, CSS, JavaScript, React.js
-- 📫 How to reach me: **[njockrudiger4@gmail,com]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 📫 How to reach me: njockrudiger4@gmail.com
+- ⚡ Fun fact: 🧠 I’m a curious problem-solver who codes in JavaScript/React, explores libraries, work with teams, and still finds time to teach my knowledge
 
 ## My Skills 🧠
 
