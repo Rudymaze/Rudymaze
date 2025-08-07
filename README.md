@@ -10,7 +10,7 @@ Reach me at: njockrudiger4@gmail.com
 
 - 🌱 Currently learning: Advanced Frontend Development Techniques
 - 🔭 Working on:  I'm working on a project, a web video call app, where I will hone my skills and improve. 
-- 🌍 Languages: HTML, CSS, JavaScript, React.js
+- 🌍 Languages: HTML, CSS, JavaScript, React.js, TypeScript, Next.js
 - 📫 How to reach me: njockrudiger4@gmail.com
 - ⚡ Fun fact: 🧠 I’m a curious problem-solver who codes in JavaScript/React, explores libraries, work with teams, and still finds time to teach my knowledge
 
@@ -21,6 +21,7 @@ Reach me at: njockrudiger4@gmail.com
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-551293?style=flat-square&logo=tailwind&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-952273?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-339933?style=flat-square&logo=next.js&logoColor=white)
 
